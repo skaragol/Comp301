@@ -1,3 +1,0 @@
-WHAT IS EOPL GUI?
-
-EOPL GUI is an application that lets users to add their own programming languages that were written using the scheme programming language. Basically most of the programming languages that are provided in the Essentials Of Programming Languages book are already implemented in this IDE. This software program can run a given source code which is written in the selected language by the user and returns the result. Moreover, the user will be able to see the Abstract Syntax Tree of evaluated expressions. Also, they can see the environment/store values for each expression evaluated step by step.
